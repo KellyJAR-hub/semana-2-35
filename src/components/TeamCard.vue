@@ -3,8 +3,8 @@
     <div class="d-flex justify-content-center p-2">
       <img 
         v-bind:src="member.imagen"
-        max-width="300em"
-        height="240px"
+        max-width="300px"
+        height="300px"
         viewBox="0 0 16 16"
         class="bi bi-person-bounding-box"
         alt="foto-Kelly"

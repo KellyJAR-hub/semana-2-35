@@ -27,7 +27,7 @@ export default {
           nombre: "Kelly Julieth Agudelo Rios",
           descripcion: "Estudiante Mision TIC 2022-UTP, edad 30 años, pasatiempo cocinar y hacer manualidades, vive en Medellin - Antioquia.",
           rol: "Desarrollador",
-          imagen: "https://placeimg.com/192/192/people"
+          imagen: "media/images/Kelly.jfif"
         },
         {
           codigo: 2,
@@ -35,7 +35,7 @@ export default {
           //poner los 5 aqui
           descripcion: "Estudiante Mision TIC 2022-UTP, edad 51 años, pasatiempo montar bicicleta, vive en Bogota - DC.",
           rol: "Desarrollador",
-          imagen: "https://placeimg.com/192/192/people"
+          imagen: "media/images/Jesus.jpg"
         },
         {
           codigo: 3,
@@ -43,7 +43,7 @@ export default {
           //poner los 5 aqui
           descripcion: "Estudiante Mision TIC 2022-UTP, edad 50 años, pasatiempo montar bicicleta y leer, vive en Jamundi - Valle del cauca.",
           rol: "Desarrollador",
-          imagen: "https://placeimg.com/192/192/people",
+          imagen: "media/images/Ricardo.JPG",
         },
         {
           codigo: 1,
@@ -51,7 +51,7 @@ export default {
           //poner los 5 aqui
           descripcion: "Estudiante Mision TIC 2022-UTP, edad 24 años, pasatiempo leer y realizar senderismo, vive en Guatavita - Cundinamarca.",
           rol: "Desarrollador",
-          imagen: "https://placeimg.com/192/192/people",
+          imagen: "media/images/Daniel.jpeg",
         },
       ],
     };
